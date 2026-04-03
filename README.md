@@ -13,5 +13,17 @@ Welcome to my portfolio. This repository highlights my work in translating compl
 * **Tools:** R, RMarkdown
 * **Insight:** Achieved 100% sensitivity in identifying high-risk clinical anomalies, prioritizing ethical risk mitigation in healthcare data.
 
+### [Market Basket Analysis: Consumer Behavior](link-to-your-pdf-here)
+* **Tools: R, Apriori Algorithm
+* **Insight: Identified high-affinity product pairings during supply chain disruptions (e.g., "Shortage Bread" scenarios), proposing bundling strategies to optimize cross-category revenue.
+
+### [Wine Classification: Multi-Class Predictive Modeling](link-to-your-pdf-here)
+* **Tools: R, Logistic Regression
+* **Insight: Developed a framework to categorize varieties based on chemical metadata, achieving high predictive accuracy to automate quality assurance processes.
+
+### [Titanic Data Audit: Advanced Imputation](link-to-your-pdf-here)
+* **Tools: R, KNN Imputation, Random Forest
+* **Insight: Recovered 20% of unusable training data by predictively filling missing demographics, proving the impact of data hygiene on model reliability.
+
 ---
 **Contact:** [mollyme@umich.edu](mailto:mollyme@umich.edu) | [LinkedIn](https://linkedin.com/in/molly-meyers-bb61a12a2)

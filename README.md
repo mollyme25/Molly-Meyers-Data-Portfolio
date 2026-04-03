@@ -5,7 +5,7 @@ Welcome to my portfolio. This repository highlights my work in translating compl
 
 ## 📊 Featured Projects
 
-### [Citibike Urban Mobility Analysis](./Citibike-Analysis/)
+### [Citibike Urban Mobility Analysis](./Citibike)
 * **Tools:** Power BI, Tableau, Excel
 * **Insight:** Synthesized 1M+ records to identify ridership patterns, proposing a strategy to reduce "empty dock" incidents by 15%.
 

@@ -9,4 +9,4 @@ Developed an automated audit framework to identify rare, high-risk anomalies wit
 * **Risk Mitigation:** Prioritized ethical data handling by creating a framework that differentiates between standard statistical variance and actual clinical errors.
 * **Technical Depth:** Utilized RMarkdown to create a fully reproducible report, documenting the logic from raw data ingestion to final risk assessment.
 
-![Healthcare Audit Preview](healthcare-screenshot.png)
+

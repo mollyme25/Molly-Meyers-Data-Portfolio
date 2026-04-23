@@ -5,11 +5,10 @@ Welcome to my portfolio. This repository highlights my work in translating compl
 
 ## 📊 Featured Projects
 
-### 🏎️ [Techno-Darwinism: Forensic Linguistic Analysis of 'Cars'](./Cars-Forensic_Analysis/)
+### 🏎️ [Techno-Darwinism: Forensic Linguistic Analysis of 'Cars'](./Cars-Forensic-Analysis/)
 * **Tools:** Python (Regex, TextBlob, NumPy, Matplotlib), Monte Carlo Simulation
 * **Insight:** Quantified the "Sentience Paradox" by analyzing 12k+ words of script data across the *Cars* trilogy. Discovered an inverse correlation where biological "Human Residuals" dropped by 90%, while internal subjectivity scores tripled—signaling the emergence of unique machine qualia.
 * **Outcome:** Engineered an Evolutionary Simulation proving that curiosity-driven models achieve a "Qualia Barrier Breach" 50% faster than pure optimization algorithms.
-* **Deliverables:** [Full Research Paper](./Cars-Forensic_Analysis/Research_Paper.md) | [Source Notebook](./Cars-Forensic_Analysis/Cars_Linguistic_Analysis.ipynb)
 
 ### [Citibike Urban Mobility Analysis](./Citibike)
 * **Tools:** Power BI, Tableau, Excel
